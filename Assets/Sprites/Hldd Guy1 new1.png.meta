@@ -1,0 +1,826 @@
+fileFormatVersion: 2
+guid: 37221218b40b0514d91dab1e56e5382e
+timeCreated: 1526564841
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Hldd Guy1 new1_0
+    21300002: Hldd Guy1 new1_1
+    21300004: Hldd Guy1 new1_2
+    21300006: Hldd Guy1 new1_3
+    21300008: Hldd Guy1 new1_4
+    21300010: Hldd Guy1 new1_5
+    21300012: Hldd Guy1 new1_6
+    21300014: Hldd Guy1 new1_7
+    21300016: Hldd Guy1 new1_8
+    21300018: Hldd Guy1 new1_9
+    21300020: Hldd Guy1 new1_10
+    21300022: Hldd Guy1 new1_11
+    21300024: Hldd Guy1 new1_12
+    21300026: Hldd Guy1 new1_13
+    21300028: Hldd Guy1 new1_14
+    21300030: Hldd Guy1 new1_15
+    21300032: Hldd Guy1 new1_16
+    21300034: Hldd Guy1 new1_17
+    21300036: Hldd Guy1 new1_18
+    21300038: Hldd Guy1 new1_19
+    21300040: Hldd Guy1 new1_20
+    21300042: Hldd Guy1 new1_21
+    21300044: Hldd Guy1 new1_22
+    21300046: Hldd Guy1 new1_23
+    21300048: Hldd Guy1 new1_24
+    21300050: Hldd Guy1 new1_25
+    21300052: Hldd Guy1 new1_26
+    21300054: Hldd Guy1 new1_27
+    21300056: Hldd Guy1 new1_28
+    21300058: Hldd Guy1 new1_29
+    21300060: Hldd Guy1 new1_30
+    21300062: Hldd Guy1 new1_31
+    21300064: Hldd Guy1 new1_32
+    21300066: Hldd Guy1 new1_33
+    21300068: Hldd Guy1 new1_34
+    21300070: Hldd Guy1 new1_35
+    21300072: Hldd Guy1 new1_36
+    21300074: Hldd Guy1 new1_37
+    21300076: Hldd Guy1 new1_38
+    21300078: Hldd Guy1 new1_39
+    21300080: Hldd Guy1 new1_40
+    21300082: Hldd Guy1 new1_41
+    21300084: Hldd Guy1 new1_42
+    21300086: Hldd Guy1 new1_43
+    21300088: Hldd Guy1 new1_44
+    21300090: Hldd Guy1 new1_45
+    21300092: footprint2
+    21300094: footprint
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: -1
+    wrapV: -1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hldd Guy1 new1_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 468
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hldd Guy1 new1_1
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 468
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hldd Guy1 new1_2
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 468
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hldd Guy1 new1_3
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 468
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hldd Guy1 new1_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 468
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hldd Guy1 new1_5
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 468
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hldd Guy1 new1_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 468
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hldd Guy1 new1_7
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 468
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hldd Guy1 new1_8
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 468
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hldd Guy1 new1_9
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 468
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hldd Guy1 new1_10
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 468
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hldd Guy1 new1_11
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 468
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hldd Guy1 new1_12
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 468
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hldd Guy1 new1_13
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 468
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hldd Guy1 new1_14
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 468
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hldd Guy1 new1_15
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 468
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hldd Guy1 new1_16
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 468
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hldd Guy1 new1_17
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 468
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hldd Guy1 new1_18
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 468
+        width: 11
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hldd Guy1 new1_19
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 468
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.26630372, y: 0.3661826}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hldd Guy1 new1_20
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 468
+        width: 18
+        height: 26
+      alignment: 9
+      pivot: {x: 0.55021834, y: 0.3931967}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hldd Guy1 new1_21
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 468
+        width: 13
+        height: 21
+      alignment: 9
+      pivot: {x: 0.47808602, y: 0.49500093}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hldd Guy1 new1_22
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 468
+        width: 13
+        height: 21
+      alignment: 9
+      pivot: {x: 0.49091047, y: 0.48702422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hldd Guy1 new1_23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 420
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hldd Guy1 new1_24
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 420
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hldd Guy1 new1_25
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 420
+        width: 27
+        height: 19
+      alignment: 9
+      pivot: {x: 0.11059429, y: 0.56253856}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hldd Guy1 new1_26
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 420
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hldd Guy1 new1_27
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 420
+        width: 35
+        height: 29
+      alignment: 9
+      pivot: {x: 0.53377557, y: 0.31947485}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hldd Guy1 new1_28
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 420
+        width: 19
+        height: 29
+      alignment: 9
+      pivot: {x: 0.2422389, y: 0.3136523}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hldd Guy1 new1_29
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 420
+        width: 17
+        height: 21
+      alignment: 9
+      pivot: {x: 0.44274992, y: 0.43048242}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hldd Guy1 new1_30
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 420
+        width: 30
+        height: 19
+      alignment: 9
+      pivot: {x: 0.34320018, y: 0.4829246}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hldd Guy1 new1_31
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 420
+        width: 27
+        height: 19
+      alignment: 9
+      pivot: {x: 0.2596933, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hldd Guy1 new1_32
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 420
+        width: 21
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hldd Guy1 new1_33
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 420
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hldd Guy1 new1_34
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 420
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hldd Guy1 new1_35
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 420
+        width: 21
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hldd Guy1 new1_36
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 420
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hldd Guy1 new1_37
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 420
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hldd Guy1 new1_38
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 420
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hldd Guy1 new1_39
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 420
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hldd Guy1 new1_40
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 156
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hldd Guy1 new1_41
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 102
+        width: 349
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hldd Guy1 new1_42
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 164
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hldd Guy1 new1_43
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 109
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hldd Guy1 new1_44
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 108
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hldd Guy1 new1_45
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 356
+        width: 9
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: footprint2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 363
+        width: 4
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: footprint
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 359
+        width: 4
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
